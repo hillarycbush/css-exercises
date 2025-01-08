@@ -1,0 +1,17 @@
+/* style.css */
+button {
+    font-size:28px;
+    font-family: Helvetica, 'Times New Roman', Times, serif;
+    border-radius:10px
+}
+
+.first-button {
+    background-color: black;
+    color: white
+
+}
+
+.second-button {
+    background-color: blueviolet;
+
+}
